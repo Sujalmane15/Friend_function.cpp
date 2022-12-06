@@ -1,0 +1,1 @@
+# Friend_function.cpp
